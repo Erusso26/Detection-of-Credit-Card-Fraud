@@ -1,4 +1,4 @@
-# CREDIT_CARD_FRAUD_DETECTION
+# DETECTION_OF_CREDIT_CARD_FRAUD
  
 ## Caso di Studio Ingegneria della Conoscenza A.A. 2023/24
 
